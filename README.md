@@ -17,9 +17,9 @@ tools.
 - [homelab-mini](https://github.com/moe-tech-dev/homelab-mini)
   A small homelab setup with an Ubuntu app server, Rocky Linux reverse proxy,
   SSH hardening, firewall rules, and SELinux left enabled.
-- `sysinfo-cli`
-  A small Python CLI that prints CPU, RAM, disk, and OS information. Public repo
-  setup in progress.
+- [sysinfo-cli](https://github.com/moe-tech-dev/sysinfo-cli)
+  A small Python CLI that prints CPU, RAM, disk, and OS information in text or
+  JSON.
 
 ## Currently Learning
 
