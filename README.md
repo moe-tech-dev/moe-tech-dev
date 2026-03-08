@@ -1,34 +1,43 @@
 # Hi, I'm Moe
 
-I am building practical projects around web hosting, Linux, and small developer
+I build practical projects around Linux, web hosting, and small developer
 tools.
 
-## Focus
+## What I'm Focused On
 
-- System integration and web hosting
+- system integration and web hosting
 - Linux, NGINX, and service management
-- Small real-world tools instead of tutorial-only projects
+- small projects that solve clear problems
 
 ## Featured Projects
 
-- [website-atelier-heimw](https://github.com/moe-tech-dev/website-atelier-heimw)
-  Source code for the live website [atelier-heimw.de](https://atelier-heimw.de),
-  built with HTML/CSS and deployed on Netlify.
-- [homelab-mini](https://github.com/moe-tech-dev/homelab-mini)
-  A small homelab setup with an Ubuntu app server, Rocky Linux reverse proxy,
-  SSH hardening, firewall rules, and SELinux left enabled.
-- [sysinfo-cli](https://github.com/moe-tech-dev/sysinfo-cli)
-  A small Python CLI that prints CPU, RAM, disk, and OS information in text or
-  JSON.
+### [atelier-heimw.de](https://github.com/moe-tech-dev/website-atelier-heimw)
+Static website for a local art atelier, built with plain HTML/CSS and deployed
+on Netlify.
+
+- live site: [atelier-heimw.de](https://atelier-heimw.de)
+- focus: responsive frontend, static site structure, deployment
+
+### [homelab-mini](https://github.com/moe-tech-dev/homelab-mini)
+Small homelab project with an Ubuntu app server, Rocky Linux reverse proxy,
+SSH hardening, firewall rules, and SELinux kept enabled.
+
+- focus: Linux administration, NGINX, `systemd`, security basics
+
+### [sysinfo-cli](https://github.com/moe-tech-dev/sysinfo-cli)
+Small Python CLI tool that prints CPU, RAM, disk, and OS information in text
+or JSON.
+
+- focus: Python packaging, CLI design, structured output
 
 ## Currently Learning
 
 - Docker
 - Ansible
 - NGINX hardening
-- cleaner deployment and ops workflows
+- cleaner deployment workflows
 
-## Goal
+## Direction
 
-Build a profile around a few small, clear, working projects instead of many
-unfinished experiments.
+I am building a profile around a few small, clear, working projects instead of
+many unfinished experiments.
