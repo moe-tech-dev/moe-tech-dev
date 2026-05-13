@@ -11,20 +11,20 @@ tools.
 
 ## Featured Projects
 
-### [atelier-heimw.de](https://github.com/moe-tech-dev/website-atelier-heimw)
+### [atelier-heimw.de](https://github.com/alsharmani0/website-atelier-heimw)
 Static website for a local art atelier, built with plain HTML/CSS and deployed
 on Netlify.
 
 - live site: [atelier-heimw.de](https://atelier-heimw.de)
 - focus: responsive frontend, static site structure, deployment
 
-### [homelab-mini](https://github.com/moe-tech-dev/homelab-mini)
+### [homelab-mini](https://github.com/alsharmani0/homelab-mini)
 Small homelab project with an Ubuntu app server, Rocky Linux reverse proxy,
 SSH hardening, firewall rules, and SELinux kept enabled.
 
 - focus: Linux administration, NGINX, `systemd`, security basics
 
-### [sysinfo-cli](https://github.com/moe-tech-dev/sysinfo-cli)
+### [sysinfo-cli](https://github.com/alsharmani0/sysinfo-cli)
 Small Python CLI tool that prints CPU, RAM, disk, and OS information in text
 or JSON.
 
